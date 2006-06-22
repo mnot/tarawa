@@ -1,0 +1,64 @@
+Accept: audio/*; q=0.2, audio/basic
+Accept: text/plain; q=0.5, text/html, text/x-dvi; q=0.8, text/x-c 
+Accept: text/*, text/html, text/html;level=1, */* 
+Accept: text/*;q=0.3, text/html;q=0.7, text/html;level=1, text/html;level=2;q=0.4, */*;q=0.5 
+Accept-Charset: iso-8859-5, unicode-1-1;q=0.8
+Accept-Encoding: compress, gzip 
+Accept-Encoding: 
+Accept-Encoding: * 
+Accept-Encoding: compress;q=0.5, gzip;q=1.0 
+Accept-Encoding: gzip;q=1.0, identity; q=0.5, *;q=0 
+Accept-Language: da, en-gb;q=0.8, en;q=0.7
+Accept-Ranges: none
+Allow: GET, HEAD, PUT
+Cache-Control: private, community="UCI"
+Connection: close
+Content-Encoding: gzip
+Content-Language: da
+Content-Language: mi, en
+Content-Length: 3495
+Content-Range: bytes 0-499/1234
+Content-Range: bytes 500-999/1234
+Content-Rnage: bytes 500-1233/1234
+Content-Range: bytes 734-1233/1234
+Content-Range: bytes 21010-47021/47022
+Content-Type: text/html; charset=ISO-8859-4
+Date: Tue, 15 Nov 1994 08:12:31 GMT
+ETag: "xyzzy"
+ETag: W/"xyzzy"
+ETag: ""
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+From: webmaster@w3.org
+Host: www.w3.org
+If-Match: "xyzzy"
+If-Match: "xyzzy", "r2d2xxxx", "c3piozzzz"
+If-Match: *
+If-Modified-Since: Sat, 29 Oct 1994 19:43:31 GMT
+If-None-Match: "xyzzy"
+If-None-Match: W/"xyzzy"
+If-None-Match: "xyzzy", "r2d2xxxx", "c3piozzzz"
+If-None-Match: W/"xyzzy", W/"r2d2xxxx", W/"c3piozzzz"
+If-None-Match: *
+Last-Modified: Tue, 15 Nov 1994 12:45:26 GMT
+Location: http://www.w3.org/pub/WWW/People.html
+Pragma: no-cache
+Range: bytes=0-499
+Range: bytes=500-000
+Range: bytes=-500
+Range: bytes=9500-
+Range: bytes=0-0,-1
+Range: bytes=500-600,601-999
+Range: bytes=500-700,601-999
+Referer: http://www.w3.org/hypertext/DataSources/Overview.html
+Retry-After: Fri, 31 Dec 1999 23:59:59 GMT
+Retry-After: 120
+Server: CERN/3.0 libwww/2.17
+TE: deflate
+TE: 
+TE: trailers, deflate;q=0.5
+Transfer-Encoding: chunked
+Upgrade: HTTP/2.0, SHTTP/1.3, IRC/6.9, RTA/x11
+User-Agent: CERN-LineMode/2.15 libwww/2.17b3 
+Via: 1.0 fred, 1.1 nowhere.com (Apache/1.1)
+Via: 1.0 ricky, 1.1 ethel, 1.1 fred, 1.0 lucy
+Via: 1.0 ricky, 1.1 mertz, 1.0 lucy

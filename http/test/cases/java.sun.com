@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Server: Sun-ONE-Web-Server/6.1
+Date: Sun, 21 Aug 2005 03:22:16 GMT
+Content-type: text/html;charset=ISO-8859-1
+Set-Cookie: SUN_ID=67.119.69.243:226641124594536; EXPIRES=Wednesday, 31-Dec-2025 23:59:59 GMT; DOMAIN=.sun.com; PATH=/
+Set-cookie: JSESSIONID=4CD0242095413F58E828C4F454CD6E12;Path=/

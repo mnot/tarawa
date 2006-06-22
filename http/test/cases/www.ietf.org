@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Sun, 21 Aug 2005 02:07:20 GMT
+Server: Apache/2.0.46 (Red Hat)
+Last-Modified: Mon, 08 Aug 2005 15:10:10 GMT
+ETag: "4140bb-14de-718b9880"
+Accept-Ranges: bytes
+Content-Length: 5342
+Connection: close
+Content-Type: text/html; charset=UTF-8

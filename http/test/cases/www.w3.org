@@ -1,0 +1,15 @@
+Date: Sun, 21 Aug 2005 02:02:44 GMT
+Server: Apache/1.3.33 (Unix) PHP/4.3.10
+Content-Location: Home.html
+Vary: negotiate,accept
+TCN: choice
+P3P: policyref="http://www.w3.org/2001/05/P3P/p3p.xml"
+Cache-Control: max-age=600
+Expires: Sun, 21 Aug 2005 02:12:44 GMT
+Last-Modified: Wed, 17 Aug 2005 16:40:07 GMT
+ETag: "43036867;42380ddc"
+Accept-Ranges: bytes
+Content-Length: 31342
+Keep-Alive: timeout=2, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
